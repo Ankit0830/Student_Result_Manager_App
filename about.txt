@@ -1,0 +1,12 @@
+Student result manager
+
+1. add Student
+2. view Student
+3. check result
+4. exit
+5. delete Student
+6. update marks
+7. percentages
+8. grade
+
+
